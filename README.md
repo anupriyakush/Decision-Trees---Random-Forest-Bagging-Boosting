@@ -1,5 +1,5 @@
 # Decision-Trees---Random-Forest-Bagging-Boosting
-I did this project for my data mining class in grad school under Prof.Yan Yu. 
+I did this project for my data mining class in grad school under Prof. Yan Yu. 
 
 The goal of this project is to build linear and various tree models and compare model fitness. We have used Boston Housing dataset for this purpose. The response variable of this dataset is medv (Median value of owner-occupied homes) which is continuous quantitative variable. Hence, we will fit a linear model and a regression tree model.
 
